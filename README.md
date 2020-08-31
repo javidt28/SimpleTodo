@@ -21,7 +21,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/javidt28/SimpleTodo/blob/master/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](www.getkap.co/).
+GIF created with [Kap](https://www.getkap.co/).
 
 ## Notes
 
